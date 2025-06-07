@@ -1,5 +1,11 @@
 # @as-integrations/express4
 
+## 1.1.0
+
+### Minor Changes
+
+- [#12](https://github.com/apollo-server-integrations/apollo-server-integration-express4/pull/12) [`84a09dd`](https://github.com/apollo-server-integrations/apollo-server-integration-express4/commit/84a09ddba77467ea0e7ba4fdec449ad60356f9da) Thanks [@glasser](https://github.com/glasser)! - The package is now built for both CJS and ESM, instead of only for CJS; this is the same build approach taken by `@apollo/server`. This provides better compatibility with ESM-based build systems.
+
 ## 1.0.0
 
 ### Major Changes
