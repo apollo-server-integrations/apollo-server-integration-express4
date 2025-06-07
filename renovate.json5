@@ -16,5 +16,10 @@
       matchPackageNames: ["@types/node"],
       allowedVersions: "20.x",
     },
+    // This is the Express 4 integration. We have a whole other package for Express 5.
+    {
+      matchPackageNames: ["express", "@types/express", "@types/express-serve-static-core"],
+      allowedVersions: "4.x",
+    },
   ],
 }
