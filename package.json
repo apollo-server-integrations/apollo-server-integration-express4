@@ -1,7 +1,7 @@
 {
   "name": "@as-integrations/express4",
   "description": "An Apollo Server integration for use with Express v4",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": "Apollo <packages@apollographql.com>",
   "license": "MIT",
   "repository": {

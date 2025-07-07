@@ -1,5 +1,11 @@
 # @as-integrations/express4
 
+## 1.1.1
+
+### Patch Changes
+
+- [#16](https://github.com/apollo-server-integrations/apollo-server-integration-express4/pull/16) [`e305db6`](https://github.com/apollo-server-integrations/apollo-server-integration-express4/commit/e305db61182a72999144d62b70eab2a99a40660c) Thanks [@glasser](https://github.com/glasser)! - Allow `@apollo/server@5.0.0-rc.0` as a peer dependency.
+
 ## 1.1.0
 
 ### Minor Changes
