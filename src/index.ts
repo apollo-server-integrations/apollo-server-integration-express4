@@ -109,8 +109,8 @@ export function expressMiddleware<TContext extends BaseContext>(
           }
         }
         res.end();
-        next();
       })
+      .then(next)
       .catch(next);
   };
 }
